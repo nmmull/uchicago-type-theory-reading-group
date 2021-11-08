@@ -291,6 +291,8 @@ eckmann-hilton α β =
         β ■ α
     ∎
 
+-- 2.2 Functions are functors
+
 -- Lemma 2.2.1
 ap :
     ∀ {l m}
