@@ -1,4 +1,4 @@
-# Meeting 2 (10/11)
+# Meeting 2 (10/8)
 
 * *Presenter sign-ups:* There are still plenty of spots open for leading meetings throughout the quarter. Again, this is I think a low stakes commitment, make what you want of it, it's really just an opportunity to direct the discussion.
 
